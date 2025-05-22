@@ -11,6 +11,7 @@ Install required libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
 ## Dataset
 - **Source:** UCI Machine Learning Repository – Auto MPG Dataset
