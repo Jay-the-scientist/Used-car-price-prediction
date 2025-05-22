@@ -6,6 +6,12 @@ Analyze factors affecting price, fuel efficiency and vehicle performance using a
 ## Description
 This project involves exploring and modeling a dataset containing specifications of various automobiles. The goal is to identify relationships between attributes like engine size, horsepower, and weight with miles-per-gallon (MPG), and to build predictive models to predict price based on the features.
 
+## Installation
+Install required libraries using pip:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
 ## Dataset
 - **Source:** UCI Machine Learning Repository – Auto MPG Dataset
 - **Content:** 398 entries including features such as MPG, cylinders, displacement, horsepower, weight, acceleration, model year, and origin.
@@ -28,8 +34,4 @@ This project involves exploring and modeling a dataset containing specifications
 - Horsepower also negatively impacts MPG, though to a lesser degree.
 - Linear regression offered a reasonable predictive baseline for MPG.
 
-## Installation
-Install required libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+## Visualizations
