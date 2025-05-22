@@ -1,4 +1,4 @@
-# 🚗 Automobile Data Analysis
+# Automobile Data Analysis
 
 ## Objective
 Analyze factors affecting price, fuel efficiency and vehicle performance using a historical automobile dataset.
